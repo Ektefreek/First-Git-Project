@@ -1,0 +1,129 @@
+body{
+	background-image: url(images/colloseum2.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 0;
+}
+.france p{
+	font-family: 'Poiret One',cursive;
+	font-size: 60px;
+	margin-right: 750px;
+	margin-left: 750px;
+	width: 100px;
+	text-align: center;
+	margin-top: 0;
+}
+.france img{
+	width: 1300px;
+	height: 230px;
+	float: right;
+	clear: both;
+}
+.france{
+	float: left;
+	margin-top: 0;
+	height: 230px;
+	width: 283px;
+	background-color: #323232;
+	color: #FFFFFF;
+}
+.france h1{
+	font-family: 'Poiret One',cursive; 
+	padding-left: 40px;
+}
+.france h1 a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.france ul{
+	font-family: 'Poiret One',cursive;
+	list-style-type: none;
+}
+.france ul li a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.france ul li a:hover{
+	text-decoration: underline;
+}
+.intro{
+	border-radius: 10px;
+	clear: both;
+    background-color: rgba(255,255,255,0.85);
+	margin-right: 550px;
+	margin-left: 550px;
+}
+.intro p{
+	padding: 10px;
+	font-size: 18px;
+	text-align: center;
+	color: #000000;
+	font-family:'PT Sans', sans-serif;
+	clear: both;
+}
+.box1{
+	margin-bottom: 40px;
+	margin-top: 40px;
+	background-color: #74AFAD;
+}
+.box1 ul li{
+	font-size: 20px;
+	list-style-type: none;
+}
+.box1 p{
+	margin-top: 0;
+	font-size: 30px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+.box1{
+	font-family: 'Poiret One', cursive;
+	border-radius: 15px;
+	background-color: #ffb732;
+	display: inline-block;
+	width: 40%;
+	margin-left: 474.906px;
+}
+.box1 h1{
+	text-align: center;
+	font-size: 40px;
+}
+.box1 h1 a{
+	text-decoration: none;
+	color: #000000;
+}
+.box1 ul{
+	padding-left: 0;
+	color: #000000;
+	margin-left: 0px;
+}
+.box1 ul li{
+	margin-left: 20px;
+	width: 100px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.contact{
+	width: 483px;
+	border-radius: 10px;
+	clear: both;
+    background-color: rgba(255,255,255,0.85);
+	margin-right: 550px;
+	margin-left: 550px;
+}
+.contact p{
+	padding: 10px;
+	font-size: 18px;
+	text-align: center;
+	color: #000000;
+	font-family:'PT Sans', sans-serif;
+	clear: both;
+}
+.contact p a{
+	color: #000000;
+}
+.imgs{
+	margin-left: 400px;
+}
